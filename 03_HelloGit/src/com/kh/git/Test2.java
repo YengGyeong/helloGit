@@ -6,5 +6,6 @@ public class Test2 {
 		System.out.println("gg");
 		
 		System.out.println("Test2브랜치 시작~~");
+		System.out.println("Test2브랜치 끝~~");
 	}
 }
